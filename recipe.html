@@ -1,0 +1,83 @@
+
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Nutshell Apps Recipes</title>
+    <meta name="description" content="Nutshell Apps Recipes">
+    <meta name="author" content="Nutshell Apps Recipes">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.min.css">
+    <link rel="stylesheet" href="./css/line-awesome.min.css">
+    <link rel="stylesheet" href="./css/aos.min.css">
+</head>
+
+<body>
+    
+    <div class="site-wrapper">
+        <div class="topheader mt-3">
+            <div class="backHome">
+                <a href="http://localhost:8080/Nutsapps/" class="btn"><i class="las la-home">&nbsp;</i>Back Home</a>
+            </div>
+            <div class="logo" data-aos="zoom-out">
+                 <a href="http://localhost:8080/Nutsapps/index.html">
+                     <img src="images/logo.png" alt="Nutshell Apps Logo" title="Nutshell Apps Logo" />
+                 </a>
+            </div>
+        </div>
+          
+        <div class="container food-items pb-4">
+            <div id="recipe">
+                <div class='row align-items-center pt-5'>
+                    <div class='col-12 col-lg-6' data-aos='fade-right'>
+                        <img class='main recipe' src="" />
+                    </div>
+                    <div class='col-12 col-lg-6' data-aos='fade-left'>
+                        <h1 class='recipe-name pt-3 pt-lg-0'></h1>
+                        <p>By: <span class="author-name"></span> - <span class="author-link"></span><a href="" target='_blank'>View Profile</a></p>
+                        <p class="description"></p>
+                        <p class="prep"></p>
+                        <p class="cook"></p>
+                        <p><i class='las la-utensils'>&nbsp;</i>Servings: <span class="servings"></span></p>
+                    </div>
+                </div>
+                <div class='row pt-4 pb-2'>
+                    <div class='col-12'></div>
+                </div>
+                <div class='row pb-4' data-aos='fade-up'>
+                    <div class='col-12 col-md-6'>
+                        <form method="post">
+                            <input type="number" class="servingSize" />
+                            <input type="submit" value="submit" class="submit" />
+                        </form>
+                        <p class='h5'>Ingredients: </p>
+                        <div id='ingredients'></div>
+                    </div>
+                    <div class='col-12 col-md-6'>
+                        <p class='h5 pt-4 pt-md-0'>Directions: </p>
+                        <p class="directions"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container border-top">
+            <div class="row">
+                <div class="col-12">
+                    <footer>
+                        <p class="small text-center pt-4">&copy;Nutshell Apps Recipes 2020</p>
+                    </footer>  
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/recipe.min.js" type="application/javascript"></script>
+    <script src="js/aos.min.js" type="application/javascript"></script>
+    <script src="js/fractions.min.js" type="application/javascript"></script>
+    
+</body>
+</html>

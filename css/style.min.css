@@ -1,0 +1,101 @@
+html {}
+
+body {background: #fff; font-family: 'Lato', sans-serif;}
+
+h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {color: #33a2cd; font-weight: 700;}
+h1 {font-size: 2.2em;}
+
+/* Override Bootstrap color */
+a {color: #33a2cd !important; font-weight: 700;}
+
+a.btn {border-bottom: 2px solid #33a2cd; border-radius: 0; transition: all .5s ease-in-out; font-weight: 700;}
+
+a.btn:hover, a.btn:active, a.btn:focus {border-bottom: 2px solid #000; color: #000 !important; transition: all .5s ease-in-out;}
+
+a.btn:hover i, a.btn:active i, a.btn:focus i {transition: all .5s ease-in-out; color: #000;}
+
+i {color: #33a2cd; font-size: 1.6em; position: relative; top: 4px; transition: all .5s ease-in-out;}
+
+.topheader {position: relative; height: 140px;}
+
+.topheader .backHome {position: absolute; left: 11%; top: 50%;}
+
+.logo {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.logo img {
+    width: 200px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.item-wrapper img {height: 260px; object-fit: cover; border-radius: .4em .4em 0 0; position: relative; transition: all 1.2s ease-in-out;}
+
+a .item-wrapper span {
+    font-size: 1em; 
+    font-weight: 700; 
+    opacity: 0; 
+    color: #fff; 
+    position: absolute; 
+    position: absolute; 
+    left: 50%; 
+    top: 35%; 
+    transform: translate(-50%, -35%);
+}
+
+.indivRecipe a {display: block; position: relative; overflow: hidden;}
+
+img.recipe {height: 400px; object-fit: cover;}
+img.main {width: 100%;}
+
+p.recipe-name {font-weight: 700; font-size: 1.1em;}
+
+.blue-bg {background: #33a2cd; color: #fff; position: relative;}
+
+footer p {color: #33a2cd;}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    
+    
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    
+    
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    
+    p.intro {width: 75%; display: table; margin: 0 auto;}
+    
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    
+    a:hover .item-wrapper span, a:focus .item-wrapper span, a:active .item-wrapper span {
+        opacity: 1;
+        transition: all 1.2s ease-in-out;
+    }
+    a:hover .item-wrapper img, a:active .item-wrapper img, a:focus .item-wrapper img  {
+        filter: brightness(.5);
+        transition: all 1.2s ease-in-out;
+        transform: scale(1.3);
+        overflow: hidden;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    
+    
+}

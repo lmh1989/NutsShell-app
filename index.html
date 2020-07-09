@@ -1,0 +1,65 @@
+<html lang="en">
+    
+<head>
+    <meta charset="utf-8">
+    <title>Nutshell Apps Recipes</title>
+    <meta name="description" content="Nutshell Apps Recipes">
+    <meta name="author" content="Nutshell Apps Recipes">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.min.css">
+    <link rel="stylesheet" href="./css/line-awesome.min.css">
+    <link rel="stylesheet" href="./css/aos.min.css">
+</head>
+
+<body>
+    <div class="site-wrapper">
+        <div class="topheader mt-3">
+            <div class="logo" data-aos="zoom-out">
+                <a href="http://localhost:8080/Nutsapps/index.html">
+                    <img src="images/logo.png" alt="Nutshell Apps Logo" title="Nutshell Apps Logo" />
+                </a>
+            </div>
+        </div>
+        
+        <div class="container pt-5 pb-5">
+            <div class="row">
+                <div class="col-12" data-aos="fade-up"> 
+                    <!-- Descriptive H1 for SEO -->
+                    <h1 class="text-center pb-3">Welcome to Nutshell Apps Home Recipes</h1>
+                    <p class="text-center intro pb-4">Please feel free to select from our range of delicious recipes for your perusal.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="container food-items pb-4">
+            <!-- Return JS output here -->
+            <div class="row justify-content-center" id="recipes"></div>
+        </div>
+        
+        <div class="container border-top">
+            <div class="row">
+                <div class="col-12">
+                    <footer>
+                        <p class="small text-center pt-4">&copy;Nutshell Apps Recipes 2020</p>
+                    </footer>  
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/main.min.js" type="application/javascript"></script>
+    <script src="js/aos.min.js" type="application/javascript"></script>
+    
+    <script>
+        // initialise animate on scroll
+        AOS.init({
+            duration: 1600,
+            disable: 'mobile',
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,888 @@
+[
+    {
+	"title": "Banana Oatmeal Cookie",
+	"description": "This recipe has been handed down in my family for generations. It's a good way to use overripe bananas. It's also a moist cookie that travels well either in the mail or car.",
+	"ingredients": [
+        {
+            "name": "sifted all-purpose flour",
+            "amount": "1/2",
+            "unit": "cups"
+        },
+        {
+            "name": "baking soda",
+            "amount": "1/2",
+            "unit": "teaspoon"
+        },
+        {
+            "name": "salt",
+            "amount": "1",
+            "unit": "teaspoon"
+        },
+        {
+            "name": "ground nutmeg",
+            "amount": "1/4",
+            "unit": "teaspoon"
+        },
+        {
+            "name": "ground cinnamon",
+            "amount": "3/4",
+            "unit": "teaspoon"
+        },
+        {
+            "name": "shorteningr",
+            "amount": "3/4",
+            "unit": "cup"
+        },
+        {
+            "name": "white sugar",
+            "amount": "1",
+            "unit": "cup"
+        },
+        {
+            "name": "egg",
+            "amount": "1",
+            "unit": ""
+        },
+        {
+            "name": "mashed bananas",
+            "amount": "1",
+            "unit": "cup"
+        },
+        {
+            "name": "quick cooking oats",
+            "amount": "3/4",
+            "unit": "cups"
+        },
+        {
+            "name": "chopped nuts",
+            "amount": "1/2",
+            "unit": "cup"
+        }
+        
+	],
+	"directions": [
+		"Preheat oven to 400 degrees F (200 degrees C).",
+		"Sift together the flour, baking soda, salt, nutmeg and cinnamon.",
+		"Cream together the shortening and sugar; beat until light and fluffy. Add egg, banana, oatmeal and nuts. Mix well.",
+		"Add dry ingredients, mix well and drop by the teaspoon on ungreased cookie sheet.",
+		"Bake at 400 degrees F (200 degrees C) for 15 minutes or until edges turn lightly brown. Cool on wire rack. Store in a closed container."
+	],
+	"servings": 24,
+	"tags": [ "dessert", "fruit" ],
+	"author": {
+		"name": "Blair Bunny",
+		"url": "http://allrecipes.com/cook/10179/profile.aspx"
+	},
+	"source_url": "http://allrecipes.com/Recipe/Banana-Oatmeal-Cookie/Detail.aspx",
+    "image_src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F183540.jpg"
+},
+{
+	"title": "Basil and Pesto Hummus",
+	"description": "This deliciously-sweet hummus is bursting with basil and an all-around pesto body.",
+	"ingredients": [
+        {
+            "name": "garbanzo beans (chickpeas), drained and rinsed",
+            "amount": "16",
+            "unit": "ounces"
+        },
+        {
+            "name": "basil leaves",
+            "amount": "1/2",
+            "unit": "cup"
+        },
+        {
+            "name": "garlic",
+            "amount": "1",
+            "unit": "clove"
+        },
+        {
+            "name": "olive oil",
+            "amount": "1",
+            "unit": "tablespoon"
+        },
+        {
+            "name": "balsamic vinegar",
+            "amount": "1/2",
+            "unit": "teaspoon"
+        },
+        {
+            "name": "soy sauce",
+            "amount": "1/2",
+            "unit": "teaspoon"
+        },
+        {
+            "name": "salt and ground black pepper to taste",
+            "amount": "",
+            "unit": ""
+        }
+		
+	],
+	"directions": [
+			"Combine the garbanzo beans, basil, and garlic in a food processor; pulse several times. Use a spatula to push mixture from sides of processor bowl.",
+			"Pulse the mixture again while drizzling in the olive oil.",
+			"Add the vinegar and soy sauce; pulse until combined.",
+			"Season with salt and pepper."
+	],
+	"prep_time_min": 10,
+	"servings": 5,
+	"tags": [ "appetizer", "snack", "dip", "spread", "vegetarian" ],
+	"author": {
+		"name": "Fantastic Dan",
+		"url": "http://allrecipes.com/cook/10167621/profile.aspx"
+	},
+	"source_url": "http://allrecipes.com/Recipe/Basil-and-Pesto-Hummus/Detail.aspx",
+    "image_src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F82409.jpg"
+},
+{
+	"title": "Black Bean and Rice Enchiladas",
+	"description": "These vegetarian black bean and rice enchiladas are just as satisfying as those served in restaurants.",
+	"ingredients": [
+           {
+            "name": "olive oil",
+            "amount": "1",
+            "unit": "tablespoon"
+        },
+        {
+            "name": "green bell pepper, chopped",
+            "amount": "1",
+            "unit": ""
+        },
+        {
+            "name": "onion",
+            "amount": "1",
+            "unit": "chopped"
+        },
+        {
+            "name": "garlic minced",
+            "amount": "3",
+            "unit": "cloves"
+        },
+        {
+            "name": "can black beans, rinsed and drained",
+            "amount": "15",
+            "unit": "ounce"
+        },
+        {
+            "name": "can diced tomatoes and green chilies",
+            "amount": "14.5",
+            "unit": "ounce"
+        },
+        {
+            "name": "picante sauce",
+            "amount": "1/4",
+            "unit": "cup"
+        },
+        {
+            "name": "chili powder",
+            "amount": "1",
+            "unit": "tablespoon"
+        },
+        {
+            "name": "ground cumin",
+            "amount": "1",
+            "unit": "teaspoon"
+        },
+        {
+            "name": "red pepper flakes",
+            "amount": "1/4",
+            "unit": "teaspoon"
+        },
+        {
+            "name": "cooked brown rice",
+            "amount": "2",
+            "unit": "cups"
+        },
+        {
+            "name": "flour tortillas warmed",
+            "amount": "6",
+            "unit": "inch"
+        },
+        {
+            "name": "salsa",
+            "amount": "1",
+            "unit": "cup"
+        },
+        {
+            "name": "shredded Cheddar cheese",
+            "amount": "1",
+            "unit": "cup"
+        },
+        {
+            "name": "chopped fresh cilantro leaves",
+            "amount": "3",
+            "unit": "tablespoons"
+        },
+        {
+            "name": "shredded Cheddar cheese",
+            "amount": "1/4",
+            "unit": "cup"
+        }
+	],
+	"directions": [
+		"Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish.",
+		"Heat oil in a large skillet over medium heat; cook and stir green pepper, onion, and garlic until tender, about 7 minutes. Stir in beans, tomatoes, picante sauce, chili powder, cumin, and red pepper flakes; bring to a boil. Reduce heat to low and simmer, uncovered, until heated through and mixture thickens, about 5 minutes. Fold in rice and 1 cup Cheddar cheese; cook until heated through, about 5 minutes.",
+		"Spoon a rounded 1/2 cup bean mixture down the center of each tortilla. Fold sides over filling and roll up. Place enchiladas seam side down in baking dish; spoon salsa over each tortilla. Cover baking dish with aluminum foil.",
+		"Bake in preheated oven for 25 minutes. Uncover and sprinkle with cilantro and 1/4 cup Cheddar cheese. Bake until cheese is melted, 2 to 3 minutes."
+	],
+	"prep_time_min": 15,
+	"cook_time_min": 50,
+	"servings": 8,
+	"tags": [ "main dish", "vegetarian" ],
+	"author": {
+		"name": "Diana Manzella-Miller",
+		"url": "http://allrecipes.com/cook/13191855/profile.aspx"
+	},
+	"source_url": "http://allrecipes.com/Recipe/Black-Bean-and-Rice-Enchiladas-2",
+    "image_src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F2735709.jpg"
+},
+{
+	"title": "Divine Hard-Boiled Eggs",
+	"description": "These hard-boiled eggs are cooked perfectly every time without turning the yolks green.",
+	"ingredients": [
+        {
+             "name": "eggs",
+            "amount": "12",
+            "unit": ""
+        }
+	],
+	"directions": [
+		"Place eggs in a pot; pour enough water over the eggs to cover.",
+		"Cover and turn stove to high; bring to a boil; turn off heat and place pot on a cool burner. Let the pot sit with the cover on for 15 minutes.",
+		"Meanwhile, fill a large bowl halfway with cold water; transfer the eggs from the pot to the cold water. Replace the water with cold water as needed to keep cold until the eggs are completely cooled.",
+		"Chill in refrigerator at least 2 hours before peeling."
+	],
+	"prep_time_min": 5,
+	"cook_time_min": 15,
+	"servings": 12,
+	"tags": [ "appetizer", "snack", "breakfast" ],
+	"author": {
+		"name": "Rocky Road",
+		"url": "http://allrecipes.com/cook/13810306/profile.aspx"
+	},
+	"source_url": "http://allrecipes.com/recipe/divine-hard-boiled-eggs/detail.aspx",
+    "image_src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F191512.jpg"
+},
+{
+	"title": "Four Cheese Margherita Pizza",
+	"description": "This is a fantastic version of an Italian classic. The feta cheese adds a rich flavor that brings this dish to life. Incredibly easy and incredibly delicious!",
+	"ingredients": [
+        {
+            "name": "olive oil",
+            "amount": "1/4",
+            "unit": "cup"
+        },
+        {
+            "name": "minced garlic",
+            "amount": "1",
+            "unit": "teaspoon"
+        },
+        {
+            "name": "sea salt",
+            "amount": "1/2",
+            "unit": "teaspoon"
+        },
+        {
+            "name": "sliced Roma tomatoes",
+            "amount": "8",
+            "unit": ""
+        },
+        {
+            "name": "pre-baked pizza crusts",
+            "amount": "12",
+            "unit": "inch"
+        },
+        {
+            "name": "shredded Mozzarella cheese",
+            "amount": "8",
+            "unit": "ounce"
+        },
+        {
+            "name": "shredded Fontina cheese",
+            "amount": "4",
+            "unit": "ounces"
+        },
+        {
+            "name": "chopped fresh cilantro leaves",
+            "amount": "3",
+            "unit": "tablespoons"
+        },
+        {
+            "name": "fresh basil leaves washed dried",
+            "amount": "10",
+            "unit": ""
+        },
+           {
+            "name": "freshly grated Parmesan cheese",
+            "amount": "1/2",
+            "unit": "cup"
+        },
+           {
+            "name": "crumbled feta cheese",
+            "amount": "1/2",
+            "unit": "cup"
+        }
+	],
+	"directions": [
+		"Stir together olive oil, garlic, and salt; toss with tomatoes, and allow to stand for 15 minutes.",
+		"Preheat oven to 400 degrees F (200 degrees C).",
+		"Brush each pizza crust with some of the tomato marinade. Sprinkle the pizzas evenly with Mozzarella and Fontina cheeses. Arrange tomatoes overtop, then sprinkle with shredded basil, Parmesan, and feta cheese.",
+		"Bake in preheated oven until the cheese is bubbly and golden brown, about 10 minutes."
+	],
+	"prep_time_min": 15,
+	"cook_time_min": 10,
+	"servings": 8,
+	"tags": [ "main dish" ],
+	"author": {
+		"name": "Michelle",
+		"url": "http://allrecipes.com/cook/18668259/profile.aspx"
+	},
+	"source_url": "http://allrecipes.com/recipe/four-cheese-margherita-pizza",
+    "image_src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F694708.jpg"
+},
+{
+	"title": "Homemade Black Bean Veggie Burgers",
+	"description": "You will never want to eat frozen veggie burgers again. These are so easy, and you'll be proud to have created such a vegetarian delight.",
+	"ingredients": [
+        {
+            "name": "can black beans, drained and rinsed",
+            "amount": "16",
+            "unit": "ounce"
+        },
+        {
+            "name": "green bell pepper cut into 2 inch pieces",
+            "amount": "1/2",
+            "unit": ""
+        },
+        {
+            "name": "onion cut into wedges",
+            "amount": "1/2",
+            "unit": ""
+        },
+        {
+            "name": "3 peeled garlic cloves",
+            "amount": "3",
+            "unit": ""
+        },
+        {
+            "name": "egg",
+            "amount": "1",
+            "unit": ""
+        },
+        {
+            "name": "chili powder",
+            "amount": "1",
+            "unit": "tablespoon"
+        },
+        {
+            "name": "cumin",
+            "amount": "1",
+            "unit": "tablespoon"
+        },
+        {
+            "name": "Thai chili sauce or hot sauce",
+            "amount": "1",
+            "unit": "teaspoon"
+        },
+        {
+            "name": "bread crumbs",
+            "amount": "1/2",
+            "unit": "cup"
+        }
+	
+	],
+	"directions": [
+		"If grilling, preheat an outdoor grill for high heat, and lightly oil a sheet of aluminum foil. If baking, preheat oven to 375 degrees F (190 degrees C), and lightly oil a baking sheet.",
+		"In a medium bowl, mash black beans with a fork until thick and pasty.",
+		"In a food processor, finely chop bell pepper, onion, and garlic. Then stir into mashed beans.",
+		"In a small bowl, stir together egg, chili powder, cumin, and chili sauce.",
+		"Stir the egg mixture into the mashed beans. Mix in bread crumbs until the mixture is sticky and holds together. Divide mixture into four patties.",
+		"If grilling, place patties on foil, and grill about 8 minutes on each side. If baking, place patties on baking sheet, and bake about 10 minutes on each side."
+	],
+	"prep_time_min": 15,
+	"cook_time_min": 20,
+	"servings": 4,
+	"tags": [ "main dish", "vegetarian", "grill" ],
+	"author": {
+		"name": "Lauren Mu",
+		"url": "http://allrecipes.com/cook/1445297/profile.aspx"
+	},
+	"source_url": "http://allrecipes.com/Recipe/Homemade-Black-Bean-Veggie-Burgers/Detail.aspx",
+    "image_src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F494064.jpg&w=596&h=399&c=sc&poi=face&q=85"
+},
+{
+	"title": "Homemade Chicken Enchiladas",
+	"description": "These enchiladas are great. Even my 5 year old loves them!",
+	"ingredients": [  
+        {
+            "name": "olive oil",
+            "amount": "1",
+            "unit": "tablespoon"
+        },
+        {
+            "name": "cooked chicken breasts shredded",
+            "amount": "2",
+            "unit": ""
+        },
+        {
+            "name": "onion diced",
+            "amount": "1",
+            "unit": ""
+        },
+        {
+            "name": "green bell pepper diced",
+            "amount": "1",
+            "unit": ""
+        },
+        {
+            "name": "1/2 cloves garlic chopped",
+            "amount": "1/2",
+            "unit": ""
+        },
+        {
+            "name": "cream cheese",
+            "amount": "1",
+            "unit": "cup"
+        },
+        {
+            "name": "shredded Monterey Jack cheese",
+            "amount": "1",
+            "unit": "cup"
+        },
+        {
+            "name": "can tomato sauce",
+            "amount": "15",
+            "unit": "ounce"
+        },
+        {
+            "name": "chilli powder",
+            "amount": "1",
+            "unit": "tablespoon"
+        },
+          {
+            "name": "dried parsley",
+            "amount": "1",
+            "unit": "tablespoon"
+        },
+          {
+            "name": "dried oregano",
+            "amount": "1",
+            "unit": "teaspoon"
+        },
+          {
+            "name": "salt",
+            "amount": "1/2",
+            "unit": "teaspoon"
+        },
+          {
+            "name": "ground black pepper",
+            "amount": "1/2",
+            "unit": "teaspoon"
+        },
+          {
+            "name": "flour tortillas",
+            "amount": "10",
+            "unit": "inch"
+        },
+          {
+            "name": "enchilada sauce",
+            "amount": "2",
+            "unit": "cups"
+        },
+          {
+            "name": "shredded Monterey Jack cheese",
+            "amount": "1",
+            "unit": "cup"
+        }
+	],
+	"directions": [
+		"Preheat oven to 350 degrees F (175 degrees C).",
+		"Heat olive oil in a skillet over medium heat. Cook and stir chicken, onion, green bell pepper, garlic, cream cheese, and 1 cup Monterey Jack cheese in hot oil until the cheese melts, about 5 minutes. Stir tomato sauce, chili powder, parsley, oregano, salt, and black pepper into the chicken mixture.",
+		"Divide mixture evenly into tortillas, roll the tortillas around the filling, and arrange in a baking dish. Cover with enchilada sauce and remaining 1 cup Monterey Jack cheese.",
+		"Bake in preheated oven until cheese topping melts and begins to brown, about 15 minutes."
+	],
+	"prep_time_min": 15,
+	"cook_time_min": 20,
+	"servings": 8,
+	"tags": [ "main dish" ],
+	"author": {
+		"name": "Mary Kate",
+		"url": "http://allrecipes.com/cook/14977239/profile.aspx"
+	},
+	"source_url": "http://allrecipes.com/Recipe/Homemade-Chicken-Enchiladas/Detail.aspx",
+    "image_src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1002132.jpg"
+},
+{
+	"title": "Marinated Grilled Shrimp",
+	"description": "A very simple and easy marinade that makes your shrimp so yummy you don't even need cocktail sauce! Don't let the cayenne pepper scare you, you don't even taste it. My 2 and 4 year-olds love it and eat more shrimp than their parents! It is also a big hit with company, and easy to prepare. I make this with frozen or fresh shrimp and use my indoor electric grill if the weather is not good for outside grilling. Try it with a salad, baked potato, and garlic bread. You will not be disappointed!!!",
+	"ingredients": [
+         {
+            "name": "3 cloves garlic minced",
+            "amount": "3",
+            "unit": ""
+        },
+        {
+            "name": "olive oil",
+            "amount": "1/3",
+            "unit": "cup"
+        },
+        {
+            "name": "tomato sauce",
+            "amount": "1/4",
+            "unit": "cup"
+        },
+          {
+            "name": "red wine vinegar",
+            "amount": "2",
+            "unit": "tablespoons"
+        },
+          {
+            "name": "chopped fresh basil",
+            "amount": "2",
+            "unit": "tablespoons"
+        },
+          {
+            "name": "salt",
+            "amount": "1/2",
+            "unit": "teaspoon"
+        },
+          {
+            "name": "cayenne pepper",
+            "amount": "1/4",
+            "unit": "teaspoon"
+        },
+          {
+            "name": "fresh shrimp peeled and deveined",
+            "amount": "2",
+            "unit": "pounds"
+        },
+          {
+            "name": "skewers",
+            "amount": "",
+            "unit": ""
+        }
+
+	],
+	"directions": [
+		"In a large bowl, stir together the garlic, olive oil, tomato sauce, and red wine vinegar. Season with basil, salt, and cayenne pepper. Add shrimp to the bowl, and stir until evenly coated. Cover, and refrigerate for 30 minutes to 1 hour, stirring once or twice.",
+		"Preheat grill for medium heat. Thread shrimp onto skewers, piercing once near the tail and once near the head. Discard marinade.",
+		"Lightly oil grill grate. Cook shrimp on preheated grill for 2 to 3 minutes per side, or until opaque."
+	],
+	"prep_time_min": 15,
+	"cook_time_min": 6,
+	"servings": 6,
+	"tags": [ "main dish", "grill" ],
+	"author": {
+		"name": "Blondie Perez",
+		"url": "http://allrecipes.com/cook/1804621/profile.aspx"
+	},
+	"source_url": "http://allrecipes.com/recipe/marinated-grilled-shrimp",
+    "image_src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5663321.jpg&w=596&h=596&c=sc&poi=face&q=85"
+},
+{
+	"title": "Vegetable Fried Rice",
+	"description": "This dish combines the nutty flavor of brown rice with the fresh taste of bell peppers, baby peas, and other vegetables.",
+	"ingredients": [
+          {
+            "name": "water",
+            "amount": "3",
+            "unit": "cups"
+        },
+        {
+            "name": "quick-cooking brown rice",
+            "amount": "1/2",
+            "unit": "cups"
+        },
+        {
+            "name": "peanut oil",
+            "amount": "2",
+            "unit": "tablespoons"
+        },
+          {
+            "name": "small yellow onion chopped",
+            "amount": "1",
+            "unit": ""
+        },
+          {
+            "name": "small green bell pepper chopped",
+            "amount": "1",
+            "unit": ""
+        },
+          {
+            "name": "minced garlic",
+            "amount": "1",
+            "unit": "teaspoon"
+        },
+          {
+            "name": "red pepper flakes",
+            "amount": "1/4",
+            "unit": "teaspoon"
+        },
+          {
+            "name": "green onions thinly sliced",
+            "amount": "3",
+            "unit": ""
+        },
+        {
+            "name": "soy sauce",
+            "amount": "3",
+            "unit": "teaspoons"
+        },
+        {
+            "name": "frozen petite peas",
+            "amount": "1",
+            "unit": "cup"
+        },
+        {
+            "name": "sesame oil",
+            "amount": "2",
+            "unit": "teaspoons"
+        },
+        {
+            "name": "roasted peanuts (optional)",
+            "amount": "1/4",
+            "unit": "cup"
+        }
+	],
+	"directions": [
+		"In a saucepan bring water to a boil. Stir in rice. Reduce heat, cover and simmer for 20 minutes.",
+		"Meanwhile, heat peanut oil in a large skillet or wok over medium heat. Add onions, bell pepper, garlic and pepper flakes, to taste. Cook 3 minutes, stirring occasionally.",
+		"Increase heat to medium-high and stir in cooked rice, green onions and soy sauce. Stir-fry for 1 minute. Add peas and cook 1 minute more. Remove from heat. Add sesame oil and mix well. Garnish with peanuts, if desired."
+	],
+	"prep_time_min": 15,
+	"cook_time_min": 40,
+	"servings": 4,
+	"tags": [ "main dish", "vegetarian" ],
+	"author": {
+		"name": "Dakota Kelly",
+		"url": "http://allrecipes.com/cook/1223369/profile.aspx"
+	},
+	"source_url": "http://allrecipes.com/Recipe/Vegetable-Fried-Rice/Detail.aspx",
+    "image_src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1114524.jpg"
+},
+{
+	"title": "Vegetarian Korma",
+	"description": "This is an easy and exotic Indian dish. It's rich, creamy, mildly spiced, and extremely flavorful. Serve with naan and rice.",
+	"ingredients": [
+		{
+            "name": "vegetable oil",
+            "amount": "1/2",
+            "unit": "tablespoons"
+        },
+        {
+            "name": "small onion, diced",
+            "amount": "1",
+            "unit": ""
+        },
+        {
+            "name": "minced fresh ginger root",
+            "amount": "1",
+            "unit": "teaspoon"
+        },
+        {
+            "name": "cloves garlic, minced",
+            "amount": "4",
+            "unit": ""
+        },
+        {
+            "name": "potatoes, cubed",
+            "amount": "2",
+            "unit": ""
+        },
+        {
+            "name": "carrots, cubed",
+            "amount": "4",
+            "unit": ""
+        },
+        {
+            "name": "fresh jalapeno pepper, seeded and sliced",
+            "amount": "1",
+            "unit": ""
+        },
+        {
+            "name": "ground unsalted cashews",
+            "amount": "3",
+            "unit": "tablespoons"
+        },
+        {
+            "name": "tomato sauce",
+            "amount": "1",
+            "unit": "can"
+        },
+        {
+            "name": "salt",
+            "amount": "2",
+            "unit": "teaspoons"
+        },
+        {
+            "name": "curry powder",
+            "amount": "1 1/2",
+            "unit": "tablespoons"
+        },
+        {
+            "name": "frozen green peas",
+            "amount": "1",
+            "unit": "cup"
+        },
+        {
+            "name": "green bell pepper, chopped",
+            "amount": "1/2",
+            "unit": ""
+        },
+        {
+            "name": "red bell pepper, chopped",
+            "amount": "1/2",
+            "unit": ""
+        },
+        {
+            "name": "heavy cream",
+            "amount": "1",
+            "unit": "cup"
+        },
+        {
+            "name": "fresh cilantro for garnish",
+            "amount": "1",
+            "unit": "bunch"
+        }
+	],
+	"directions": [
+		"Heat the oil in a skillet over medium heat. Stir in the onion, and cook until tender.",
+		"Mix in ginger and garlic, and continue cooking 1 minute.",
+		"Mix potatoes, carrots, jalapeno, cashews, and tomato sauce. Season with salt and curry powder. Cook and stir 10 minutes, or until potatoes are tender.",
+		"Stir peas, green bell pepper, red bell pepper, and cream into the skillet. Reduce heat to low, cover, and simmer 10 minutes.",
+		"Garnish with cilantro to serve."
+	],
+	"prep_time_min": 25,
+	"cook_time_min": 30,
+	"servings": 4,
+	"tags": [ "main dish", "vegetarian", "indian" ],
+	"author": {
+		"name": "Yakuta",
+		"url": "http://allrecipes.com/cook/116722/profile.aspx"
+	},
+	"source_url": "http://allrecipes.com/Recipe/Vegetarian-Korma/Detail.aspx",
+    "image_src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4462161.jpg&w=596&h=399&c=sc&poi=face&q=85"
+},
+{
+	"title": "World's Best Lasagna",
+	"description": "It takes a little work, but it is worth it.",
+	"ingredients": [
+		{
+            "name": "sweet Italian sausage",
+            "amount": "1",
+            "unit": "pound"
+        },
+        {
+            "name": "lean ground beef",
+            "amount": "3/4",
+            "unit": "pound"
+        },
+        {
+            "name": "minced onion",
+            "amount": "1/2",
+            "unit": "cup"
+        },
+        {
+            "name": "cloves garlic, crushed",
+            "amount": "2",
+            "unit": ""
+        },
+        {
+            "name": "crushed tomatoes",
+            "amount": "1",
+            "unit": "cans"
+        },
+        {
+            "name": "tomato paste",
+            "amount": "2",
+            "unit": "cans"
+        },
+        {
+            "name": "canned tomato sauce",
+            "amount": "2",
+            "unit": "cans"
+        },
+        {
+            "name": "water",
+            "amount": "1/2",
+            "unit": "cup"
+        },
+        {
+            "name": "white sugar",
+            "amount": "2",
+            "unit": "tablespoons"
+        },
+        {
+            "name": "dried basil leaves",
+            "amount": "1 1/2",
+            "unit": "teaspoons"
+        },
+        {
+            "name": "Italian seasoning",
+            "amount": "1",
+            "unit": "teaspoons"
+        },
+        {
+            "name": "salt",
+            "amount": "1",
+            "unit": "tablespoon"
+        },
+        {
+            "name": "ground black pepper",
+            "amount": "1/4",
+            "unit": "teaspoons"
+        },
+        {
+            "name": "chopped fresh parsley",
+            "amount": "4",
+            "unit": "tablespoons"
+        },
+        {
+            "name": "lasagne noodles",
+            "amount": "12",
+            "unit": ""
+        },
+        {
+            "name": "ricotta cheese",
+            "amount": "16",
+            "unit": "ounces"
+        },
+        {
+            "name": "egg",
+            "amount": "1",
+            "unit": ""
+        },
+        {
+            "name": "salt",
+            "amount": "1/2",
+            "unit": "teaspoons"
+        },
+        {
+            "name": "mozzarella cheese, sliced",
+            "amount": "3/4",
+            "unit": "pound"
+        },
+        {
+            "name": "grated Parmesan cheese",
+            "amount": "3/4",
+            "unit": "cup"
+        }
+	],
+	"directions": [
+		"In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned. Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Season with sugar, basil, fennel seeds, Italian seasoning, 1 tablespoon salt, pepper, and 2 tablespoons parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally.",
+		"Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining parsley, and 1/2 teaspoon salt.",
+		"Preheat oven to 375 degrees F (190 degrees C).",
+		"To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with one half of the ricotta cheese mixture. Top with a third of mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese.",
+		"Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Cool for 15 minutes before serving."
+	],
+	"prep_time_min": 30,
+	"cook_time_min": 150,
+	"servings": 12,
+	"tags": [ "main dish" ],
+	"author": {
+		"name": "John Chandler",
+		"url": "http://allrecipes.com/cook/1899478/profile.aspx"
+	},
+	"source_url": "http://allrecipes.com/Recipe/Worlds-Best-Lasagna/Detail.aspx",
+    "image_src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F83913.jpg&w=596&h=596&c=sc&poi=face&q=85"
+}]
+
